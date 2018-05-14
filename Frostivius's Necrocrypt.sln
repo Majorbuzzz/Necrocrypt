@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frostivius's Necrocrypt", "Frostivius's Necrocrypt.csproj", "{D14F317C-09AB-260C-4A8B-A2C9283E018E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frostivius's Necrocrypt.Editor", "Frostivius's Necrocrypt.Editor.csproj", "{7EDAFD2A-96EE-2D13-01B7-5DADD35DE205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D14F317C-09AB-260C-4A8B-A2C9283E018E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14F317C-09AB-260C-4A8B-A2C9283E018E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14F317C-09AB-260C-4A8B-A2C9283E018E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14F317C-09AB-260C-4A8B-A2C9283E018E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EDAFD2A-96EE-2D13-01B7-5DADD35DE205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDAFD2A-96EE-2D13-01B7-5DADD35DE205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDAFD2A-96EE-2D13-01B7-5DADD35DE205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDAFD2A-96EE-2D13-01B7-5DADD35DE205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
